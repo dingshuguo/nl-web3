@@ -1,0 +1,11 @@
+name = "nl-web3"
+main = "_worker.js"
+compatibility_date = "2023-05-26"
+# node_compat = true
+workers_dev = true
+
+[vars]
+# PROXYIP = "211.230.110.231:50008"
+UUID = "67901c14-d3e3-402c-9710-ad5927efdde2"
+# SOCKS5 = "127.0.0.1:1080"
+# SOCKS5_RELAY = "true"
